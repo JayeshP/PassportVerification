@@ -5,7 +5,7 @@ You can play around with adding number of worker for doc verification, police ve
 
 How to run ?
 
-python main.py <no of doc verification worker> <no. of police verification workers> <no. of biometric worker>
+python main.py < no of doc verification worker > < no. of police verification workers > < no. of biometric worker >
 
 What do we achieve ?
 
